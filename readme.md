@@ -1,3 +1,9 @@
+*THIS IS A MODIFIED VERSION!* 
+
+This isn't the original version, the original one got taken off the chrome web store for reasons that I don't know. But I love this extension and to see it not be in developement anymore makes me sad. So I'm going to be modifying the extension. I did not make the original, if you would like to download the original, you can [here].
+
+[here]: https://github.com/animal-crossing-music-extension/ac-music-extension
+
 ![Project Banner](docs/banner.png)
 
 # Animal Crossing Music 🍀
@@ -69,4 +75,4 @@ Credit is due to [Andrex](https://www.neogaf.com/members/andrex.20593/) and [bla
 Original concept of the extension taken from [tane.us](http://tane.us/ac/)
 
 ## Licensing
-Animal Crossing Music is licensed under the zlib license. See [LICENSE.md](./LICENSE.md) for reference.
+Animal Crossing Music is licensed under the zlib license. See [LICENSE.md](./LICENSE.md) for reference. 
